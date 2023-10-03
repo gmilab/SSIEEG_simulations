@@ -15,7 +15,7 @@ Run Simbio simulations to test leadfield differences on a skull that has burrhol
    - Run leadfield computations at varying burrhole sizes
 
 3. [fem_analysis_plottingmany.m](/fem_analysis_plottingmany.m)
-   - Plot results from fem_analysis_runmany.m
+   - Plot results from `fem_analysis_runmany.m`
    
 4. [fem_distancetohole.mlx](/fem_distancetohole.mlx)
    - Simulate leadfield differences as a function of distance to burrhole
